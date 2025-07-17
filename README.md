@@ -1,2 +1,2 @@
 # first
-first one
+first one. Just a hello world program
